@@ -1,0 +1,17 @@
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Estudos\Aula1\Api\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Estudos\Aula1\Api\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
